@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bekrine
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on new challenge
 - 📫 How to reach me Email mohamd.bekrine.mb@gmail.com
 
